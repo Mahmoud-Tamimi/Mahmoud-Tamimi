@@ -1,57 +1,74 @@
-# 👋 Hi, I'm Mahmoud Tamimi
+<h1 align="center">👋 Hi, I'm Mahmoud Tamimi</h1>
 
-🚀 I'm a passionate **Frontend Developer** based in **Amman, Jordan**, with a strong background in building responsive and performant web applications using **Vue.js**, **Nuxt.js**, and **Nuxt UI**.
+<p align="center">
+  🚀 Frontend Developer | Vue & Nuxt Specialist | Passionate about clean UI/UX & scalable code
+</p>
+
+<p align="center">
+  <a href="mailto:mahmoudtamimi772000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahmoud-tamimi-18aa23267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mahmoudtamimi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎯 Focused on user experience, clean code, and scalability.
-- 💼 Currently working at **Cookies Bis** as a frontend developer.
-- 🛠️ Experienced in building ERP systems, admin dashboards, and custom tools.
-- 🤝 Love collaborating on cross-functional teams to deliver polished digital products.
-- 🔍 Always exploring new tools and improving performance.
+- 💼 Frontend Developer at **Cookies Bis** – working with Nuxt 3 and Nuxt UI
+- 🧠 Strong in Vue ecosystem, responsive design, API integration & performance tuning
+- 🚀 Building scalable apps, admin panels, internal systems & e-commerce dashboards
+- 🎯 Focused on clean code, user-centered design, and continuous improvement
+- 💡 Eager to collaborate, learn, and contribute to open-source projects
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
-**Languages & Frameworks:**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)
-![Nuxt UI](https://img.shields.io/badge/-Nuxt%20UI-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
+### 🧩 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Nuxt UI](https://img.shields.io/badge/Nuxt%20UI-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**UI & Styling:**
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+### 🔧 Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🛠 Featured Projects
+## 🏆 GitHub Stats
 
-- 🌐 [Watad.ai](https://watad.ai) – AI-based travel packages and services dashboard.
-- 🧾 [Gini.org](https://gini.org) – Responsive portal with full admin content control.
-- 🛍 [Talto.com](https://taltol.com) – SEO-ready Nuxt 3 e-commerce platform.
-- 🖼 [JPtoPDF.com](https://jptopdf.com) – Lightweight JPG-to-PDF converter.
-- 📚 [InnovationLibrary.com](https://innovationlibrary.com) – Smart content library system.
-- ✒️ [Highfonts.com](https://highfonts.com) – Arabic/English font platform.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudtamimi&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudtamimi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudtamimi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 🌟 Highlight Projects
 
-- 📧 Email: [mahmoudtamimi772000@gmail.com](mailto:mahmoudtamimi772000@gmail.com)
-- 📱 Phone: [+962797942036](tel:+962797942036)
-- 💼 LinkedIn: [Mahmoud Tamimi](https://www.linkedin.com/in/mahmoud-tamimi-18aa23267/)
+- 🔹 [Watad.ai](https://watad.ai) – AI-powered travel bundles + dashboard using Vue/Nuxt
+- 🔹 [Gini.org](https://gini.org) – Content platform with full SEO and CMS capabilities
+- 🔹 [Talto.com](https://taltol.com) – SEO-ready Nuxt 3 e-commerce experience
+- 🔹 [JPtoPDF.com](https://jptopdf.com) – JPG to PDF converter with performance focus
+- 🔹 [Highfonts.com](https://highfonts.com) – Arabic/English font showcase + backend
+- 🔹 [InnovationLibrary.com](https://innovationlibrary.com) – Advanced content search & filtering
+- 🔹 Internal Systems – HR, inventory, and operations tools using Vue/Nuxt UI
+
+---
+
+## 📫 Let's Connect
+
+- 📧 [mahmoudtamimi772000@gmail.com](mailto:mahmoudtamimi772000@gmail.com)
+- 📱 +962797942036
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mahmoud-tamimi-18aa23267/)
 
 ---
 
