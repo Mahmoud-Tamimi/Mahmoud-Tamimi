@@ -7,18 +7,17 @@
 <p align="center">
   <a href="mailto:mahmoudtamimi772000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mahmoud-tamimi-18aa23267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mahmoudtamimi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💼 Frontend Developer at **Cookies Bis** – working with Nuxt 3 and Nuxt UI
-- 🧠 Strong in Vue ecosystem, responsive design, API integration & performance tuning
-- 🚀 Building scalable apps, admin panels, internal systems & e-commerce dashboards
-- 🎯 Focused on clean code, user-centered design, and continuous improvement
-- 💡 Eager to collaborate, learn, and contribute to open-source projects
+- 💼 Frontend Developer at **Cookies Bis** – working with Nuxt 3 and Nuxt UI  
+- 🧠 Strong in Vue ecosystem, responsive design, API integration & performance tuning  
+- 🚀 Building scalable apps, admin panels, internal systems & e-commerce dashboards  
+- 🎯 Focused on clean code, user-centered design, and continuous improvement  
+- 💡 Eager to collaborate, learn, and contribute to open-source projects  
 
 ---
 
@@ -42,32 +41,32 @@
 
 ## 🎯 My Focus Areas
 
-- 🌱 Mastering **Nuxt UI** for scalable design systems
-- 🧩 Building **component libraries** and **reusable UI kits**
-- ⚙️ Developing robust **admin dashboards** and **internal tools**
-- 📦 Creating **modular architectures** for large-scale SPAs
-- 🚀 Improving **page speed**, **accessibility**, and **SEO** in Nuxt 3 apps
-- 🤝 Contributing to **team workflows**, code reviews, and project architecture
+- 🌱 Mastering **Nuxt UI** for scalable design systems  
+- 🧩 Building **component libraries** and **reusable UI kits**  
+- ⚙️ Developing robust **admin dashboards** and **internal tools**  
+- 📦 Creating **modular architectures** for large-scale SPAs  
+- 🚀 Improving **page speed**, **accessibility**, and **SEO** in Nuxt 3 apps  
+- 🤝 Contributing to **team workflows**, code reviews, and project architecture  
 
 ---
 
 ## 🌟 Highlight Projects
 
-- 🔹 [Watad.ai](https://watad.ai) – AI-powered travel bundles + dashboard using Vue/Nuxt
-- 🔹 [Gini.org](https://gini.org) – Content platform with full SEO and CMS capabilities
-- 🔹 [Talto.com](https://taltol.com) – SEO-ready Nuxt 3 e-commerce experience
-- 🔹 [JPtoPDF.com](https://jptopdf.com) – JPG to PDF converter with performance focus
-- 🔹 [Highfonts.com](https://highfonts.com) – Arabic/English font showcase + backend
-- 🔹 [InnovationLibrary.com](https://innovationlibrary.com) – Advanced content search & filtering
-- 🔹 Internal Systems – HR, inventory, and operations tools using Vue/Nuxt UI
+- 🔹 [Watad.ai](https://watad.ai) – AI-powered travel bundles + dashboard using Vue/Nuxt  
+- 🔹 [Gini.org](https://gini.org) – Content platform with full SEO and CMS capabilities  
+- 🔹 [Talto.com](https://taltol.com) – SEO-ready Nuxt 3 e-commerce experience  
+- 🔹 [JPtoPDF.com](https://jptopdf.com) – JPG to PDF converter with performance focus  
+- 🔹 [Highfonts.com](https://highfonts.com) – Arabic/English font showcase + backend  
+- 🔹 [InnovationLibrary.com](https://innovationlibrary.com) – Advanced content search & filtering  
+- 🔹 Internal Systems – HR, inventory, and operations tools using Vue/Nuxt UI  
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 [mahmoudtamimi772000@gmail.com](mailto:mahmoudtamimi772000@gmail.com)
-- 📱 +962797942036
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mahmoud-tamimi-18aa23267/)
+- 📧 [mahmoudtamimi772000@gmail.com](mailto:mahmoudtamimi772000@gmail.com)  
+- 📱 +962797942036  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mahmoud-tamimi-18aa23267/)  
 
 ---
 
