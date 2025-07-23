@@ -40,15 +40,14 @@
 
 ---
 
-## 🏆 GitHub Stats
+## 🎯 My Focus Areas
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudtamimi&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudtamimi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudtamimi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+- 🌱 Mastering **Nuxt UI** for scalable design systems
+- 🧩 Building **component libraries** and **reusable UI kits**
+- ⚙️ Developing robust **admin dashboards** and **internal tools**
+- 📦 Creating **modular architectures** for large-scale SPAs
+- 🚀 Improving **page speed**, **accessibility**, and **SEO** in Nuxt 3 apps
+- 🤝 Contributing to **team workflows**, code reviews, and project architecture
 
 ---
 
