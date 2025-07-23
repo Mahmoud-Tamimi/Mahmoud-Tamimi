@@ -1,59 +1,58 @@
-<h1 align="center">Hey there! :wave: I'm Mahmoud</h1>
-<p align="center">
-  <em>Frontend Developer | Vue & Nuxt Pro | Passionate about SEO, SSR & clean code.</em><br>
-  <strong>I believe great code doesn't just work — it performs, scales, and looks good doing it.</strong>
-</p>
----
-### :jigsaw: About Me
-Frontend engineer with strong expertise in Vue & Nuxt (2+ years with Nuxt 3).
-Focused on performance, SEO, and building clean, maintainable UI architecture.
-Built advanced admin panels, content management tools, and user access systems.
-Currently diving into the Power Platform & Salesforce.
-Always exploring new tech, constantly leveling up.
----
-### :wrench: Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css,tailwind,sass,git,github,vscode,figma" />
-</p>
----
-### :rocket: Projects & Highlights
-:jigsaw: Fully-featured **Admin Panels** with roles, permissions, and dynamic control.
-:globe_with_meridians: **SEO-Optimized websites** using SSR, dynamic metadata, and structured data.
-:iphone: **Hybrid mobile apps** built with Vue + Ionic + Capacitor – with Stripe subscriptions & working on Apple In-App Purchases.
-:closed_lock_with_key: **User portals & custom login flows** with seamless UX and dynamic logic.
----
-### :bar_chart: GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-dev&layout=compact&theme=tokyonight" />
-</p>
----
-### :books: Currently Learning
-Power Platform :zap: 
-Salesforce Admin :brain: 
-React :atom_symbol: (just exploring for now)
----
-### :mailbox: Let's Connect
-<p align="center">
-  <a href="https://wa.me/962797942036" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:mahmoudtamimi772000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
----
-<p align="center">
-  :sparkles: <i>"I don’t just write code — I craft user experiences, performance, and impressions."</i>
-</p>
+# 👋 Hi, I'm Mahmoud Tamimi
 
-WhatsApp.comWhatsApp.com
-Share on WhatsApp
-WhatsApp Messenger: More than 2 billion people
-in over 180 countries use WhatsApp to stay in touch with friends and
-family, anytime and anywhere. WhatsApp is free and offers simple, secure,
-reliable messaging and calling, available on phones all over the world. (9 kB)
-https://wa.me/962797942036
+🚀 I'm a passionate **Frontend Developer** based in **Amman, Jordan**, with a strong background in building responsive and performant web applications using **Vue.js**, **Nuxt.js**, and **Nuxt UI**.
+
+---
+
+## 🧠 About Me
+
+- 🎯 Focused on user experience, clean code, and scalability.
+- 💼 Currently working at **Cookies Bis** as a frontend developer.
+- 🛠️ Experienced in building ERP systems, admin dashboards, and custom tools.
+- 🤝 Love collaborating on cross-functional teams to deliver polished digital products.
+- 🔍 Always exploring new tools and improving performance.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks:**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)
+![Nuxt UI](https://img.shields.io/badge/-Nuxt%20UI-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
+
+**UI & Styling:**
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🛠 Featured Projects
+
+- 🌐 [Watad.ai](https://watad.ai) – AI-based travel packages and services dashboard.
+- 🧾 [Gini.org](https://gini.org) – Responsive portal with full admin content control.
+- 🛍 [Talto.com](https://taltol.com) – SEO-ready Nuxt 3 e-commerce platform.
+- 🖼 [JPtoPDF.com](https://jptopdf.com) – Lightweight JPG-to-PDF converter.
+- 📚 [InnovationLibrary.com](https://innovationlibrary.com) – Smart content library system.
+- ✒️ [Highfonts.com](https://highfonts.com) – Arabic/English font platform.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [mahmoudtamimi772000@gmail.com](mailto:mahmoudtamimi772000@gmail.com)
+- 📱 Phone: [+962797942036](tel:+962797942036)
+- 💼 LinkedIn: [Mahmoud Tamimi](https://www.linkedin.com/in/mahmoud-tamimi-18aa23267/)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
