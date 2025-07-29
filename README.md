@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Mahmoud Tamimi</h1>
 
-<p align="center">
+<strong align="center">
   🚀 Frontend Developer | Vue & Nuxt Specialist | Passionate about clean UI/UX & scalable code
-</p>
+</strong>
 
 <p align="center">
   <a href="mailto:mahmoudtamimi772000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
