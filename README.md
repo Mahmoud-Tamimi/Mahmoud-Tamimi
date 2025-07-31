@@ -28,7 +28,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=separator&width=100%" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> About Me
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
@@ -45,13 +45,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=separator&width=100%" />
 </div>
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,html,css,nodejs,tailwind&theme=light&perline=8" />
 </div>
 
-### 🧩 Frontend
+🧩 Frontend
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="50"/>
 </div>
 
-### 🔧 Tools & Technologies
+🔧 Tools & Technologies
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
@@ -76,7 +76,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
 </div>
 
-### 🧠 Backend / Dev Knowledge
+🧠 Backend / Dev Knowledge
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
@@ -89,7 +89,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=separator&width=100%" />
 </div>
 
-## 🔍 My Focus Areas
+🔍 My Focus Areas
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 
@@ -106,7 +106,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=separator&width=100%" />
 </div>
 
-## 💼 Highlight Projects
+💼 Highlight Projects
 
 <div align="center">
   <table>
@@ -216,7 +216,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=separator&width=100%" />
 </div>
 
-## 📫 Let's Connect
+📫 Let's Connect
 
 <div align="center">
   <a href="mailto:mahmoudtamimi772000@gmail.com">
